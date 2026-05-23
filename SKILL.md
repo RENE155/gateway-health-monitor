@@ -1,3 +1,9 @@
+---
+name: gateway-health-monitor
+description: Automated health checks, performance monitoring, and configuration validation for OpenClaw, Clawdbot, and Moltbot AI gateways. Runs connectivity tests, resource monitoring, SSH audits, and enhanced system diagnostics.
+version: 1.0.0
+---
+
 # Gateway Health Monitor
 
 Automated health checks, performance monitoring, and configuration validation for OpenClaw, Clawdbot, and Moltbot gateways. Provides real-time status dashboards and proactive alerting.
